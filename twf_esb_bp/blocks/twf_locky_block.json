@@ -1,0 +1,16 @@
+{
+    "format_version": "1.19.40",
+    "minecraft:block": {
+        "description": {
+            "identifier": "twf:locky_block"
+        },
+        "components": {
+            "minecraft:geometry": "geometry.twf_block",
+            "minecraft:material_instances": {
+                "*": { 
+                    "texture": "locky_block" 
+                }                 
+            }
+        }
+    }
+}
