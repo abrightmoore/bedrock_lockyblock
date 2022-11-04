@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "The World Foundry ESB",
+		"description": "The World Foundry ESB Resource Pack",
+		"uuid": "42fa37f7-975c-f95b-7a7d-d6da9e2052f3",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 20]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "The World Foundry ESB",
+			"type": "resources",
+			"uuid": "2e241354-41a1-1dd6-0fc0-be0862ac06eb",
+			"version": [1, 0, 0]
+		}
+	]
+}
